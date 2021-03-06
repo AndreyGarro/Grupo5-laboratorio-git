@@ -1,19 +1,15 @@
 # java-rest-api owners
 
-/java-rest-api/ @AndreyGarro 
-/java-rest-api/ @gabytec
+/java-rest-api/ @AndreyGarro @gabytec
 
 # api-gateway owners
 
-/api-gateway/ @Edjchg 
-/api-gateway/ @fiorellaD53
+/api-gateway/ @Edjchg @fiorellaD53
 
 # frontend owners
 
-/frontend/ @karlami
-/frontend/ @AndreyGarro
+/frontend/ @karlami @AndreyGarro
 
 # ml-library owners
 
-/ml-library/ @gabytec
-/ml-library/ @fiorellaD53
+/ml-library/ @gabytec @fiorellaD53
